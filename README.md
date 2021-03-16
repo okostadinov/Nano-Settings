@@ -1,8 +1,8 @@
-# File adds some basic changes to default Nano text editor.
+### File adds some basic changes to default Nano text editor.
 
-## Copy file to root in order to apply changes.
+#### Copy file to root in order to apply changes.
 
-## Some basics:
+#### Some basics:
 
 ``` 
 CTRL + K            = cut
