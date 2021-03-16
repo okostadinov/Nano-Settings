@@ -5,9 +5,9 @@
 #### Some basics:
 
 ``` 
-nano -w <filename> = open file w/o wrapping text 
-nano -v <filename> = view (read-only mode) 
-CTRL + G = open help menu
+nano -w <filename>  = open file w/o wrapping text 
+nano -v <filename>  = view (read-only mode) 
+CTRL + G            = open help menu
 
 ALT + U             = undo
 ALT + E             = redo
