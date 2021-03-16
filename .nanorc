@@ -2,3 +2,8 @@ set tabsize 4
 set tabstospaces
 set linenumbers
 set multibuffer
+set autoindent
+set backup
+set nohelp
+set softwrap
+set trimblanks
